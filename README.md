@@ -49,7 +49,7 @@ README.md     este documento
 
 #### Decisões e observações
 
-- **Mapa de formas em vez de mapa de bolhas.** Os visuais de mapa padrão do Power BI estavam bloqueados na organização da conta que usei (erro `MapVisualNotEnabled`, print em `evidencias/erro-mapa-bloqueado.png`). Como alternativa, usei o **mapa de formas** com um mapa-múndi personalizado (TopoJSON de países). Por isso os valores são mostrados pela intensidade da cor, e não pelo tamanho das bolhas.
+- **Mapa de formas em vez de mapa de bolhas.** Os visuais de mapa padrão do Power BI estavam bloqueados na organização da conta que usei. Como alternativa, usei o **mapa de formas** com um mapa-múndi personalizado (TopoJSON de países). Por isso os valores são mostrados pela intensidade da cor, e não pelo tamanho das bolhas.
 - **Pizza sem o segmento Enterprise.** O lucro do segmento Enterprise é negativo na base, e o gráfico de pizza não desenha valores negativos. Ele aparece na legenda, mas sem fatia, e os percentuais são calculados sobre os segmentos com lucro positivo.
 
 ### Ajustes feitos
