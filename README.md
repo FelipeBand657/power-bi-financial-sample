@@ -26,7 +26,7 @@ README.md     este documento
 - Gráfico de área com a média do preço de venda por produto.
 - Gráfico de colunas com a soma de vendas por ano, mês e segmento.
 
-![Página 1](evidencias/pagina-1.png)
+![Página 1](evidencias/pagina-1.png.png)
 
 ### Página 2: Relatório de Vendas Considerando Países e Lucro (replicada do curso)
 
@@ -35,7 +35,7 @@ README.md     este documento
 - Gráfico de colunas com a soma de lucro por ano e mês.
 - Gráfico de colunas com a soma de vendas por país.
 
-![Página 2](evidencias/pagina-2.png)
+![Página 2](evidencias/pagina-2.png.png)
 
 ### Página 3: criada por mim
 
@@ -45,7 +45,7 @@ README.md     este documento
 | Mapa: Lucro por país | Soma de *Profit* por país | País em Localização, Profit em Saturação da cor |
 | Pizza: Lucro por segmento | Soma de *Profit* por *Segment* | Segment em Legenda, Profit em Valores |
 
-![Página 3](evidencias/pagina-3.png)
+![Página 3](evidencias/pagina-3.png.png)
 
 #### Decisões e observações
 
